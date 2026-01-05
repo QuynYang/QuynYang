@@ -8,14 +8,24 @@
 ## 💻 Infrastructure & Tooling
 
 ### 🌐 Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cs,cpp](https://skillicons.dev)
-### 🎮 Game Development (Frontend & Logic)
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal](https://skillicons.dev)
-### 🧠 Game Systems & Data (Backend & Database)
-[![My Skills](https://skillicons.dev/icons?i=dotnet,mongodb,firebase](https://skillicons.dev)
-### 🛠 Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma,blender](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,python&theme=light" />
+</p>
 
+### 🎮 Game Development (Frontend & Logic)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,unreal" />
+</p>
+
+### 🧠 Game Systems & Data (Backend & Database)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,mongodb,firebase" />
+</p>
+
+### 🛠 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma,blender" />
+</p>
 
 
 
