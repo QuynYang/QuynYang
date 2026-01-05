@@ -1,5 +1,24 @@
 ## Vũ Ngọc Quỳnh Giang is coming!
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=FF69B4&width=435&lines=Game+Developer;Unity+Developer;Gameplay+Programmer;C%23+Enthusiast)](https://git.io/typing-svg)
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-FF69B4?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **QuynYang/QuynYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
