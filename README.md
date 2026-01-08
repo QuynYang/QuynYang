@@ -32,9 +32,9 @@
 [![Email](https://img.shields.io/badge/Email-vungocquynhgiang0408%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vungocquynhgiang0408@gmail.com)
 
 ---
+### My GitHub Statistics
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-<h3 align="center">📊 My GitHub Statistics</h3>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=QuynYang&theme=tokyonight)
-
+### Activity Overview
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light)
 
