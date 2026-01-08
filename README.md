@@ -33,8 +33,8 @@
 
 ---
 ### My GitHub Statistics
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=QuynYang&show_icons=true&theme=radical)
 
 ### Activity Overview
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuynYang&theme=github-light)
 
