@@ -31,6 +31,7 @@
 [![Email](https://img.shields.io/badge/Email-vungocquynhgiang0408%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vungocquynhgiang0408@gmail.com)
 
 ---
+![Activity Graph](https://github-readme-stats.vercel.app/api?username=QuynYang&show_icons=true&theme=radical&include_all_commits=true)
 
 
 
@@ -52,5 +53,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=QuynYang&show_icons=true&theme=radical&include_all_commits=true)
