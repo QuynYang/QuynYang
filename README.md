@@ -27,7 +27,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma,blender" />
 </p>
 
+## 🤝 Let's Connect
+📫 [vungocquynhgiang0408@gmail.com](mailto:vungocquynhgiang0408@gmail.com)
 
+---
+
+<p align="center">
+  <i>"Automating today, scaling tomorrow"</i>
+</p>
 
 
 
