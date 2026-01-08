@@ -1,5 +1,6 @@
 ## ✨ Vũ Ngọc Quỳnh Giang is coming!
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=FF69B4&width=435&lines=Game+Developer;Unity+Developer;Gameplay+Programmer;C%23+Enthusiast;Software+engineer)](https://git.io/typing-svg)
+
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-FF69B4?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -12,12 +13,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,python&theme=light" />
 </p>
 
-### 🎮 Game Development (Frontend & Logic)
+### 🎮 Game Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
 
-### 🧠 Game Systems & Data (Backend & Database)
+### 🧠 Game Systems & Data
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,mongodb,firebase" />
 </p>
@@ -31,9 +32,18 @@
 [![Email](https://img.shields.io/badge/Email-vungocquynhgiang0408%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vungocquynhgiang0408@gmail.com)
 
 ---
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=QuynYang&show_icons=true&theme=radical&include_all_commits=true)
 
+### 📊 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuynYang&show_icons=true&theme=radical&include_all_commits=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuynYang&theme=radical" alt="Streak" />
+</p>
 
+---
+<p align="center">
+  <i>"Automating today, scaling tomorrow"</i>
+</p>
 
 
 
