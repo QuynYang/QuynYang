@@ -32,10 +32,6 @@
 
 ---
 
-<p align="center">
-  <i>"Automating today, scaling tomorrow"</i>
-</p>
-
 
 
 
