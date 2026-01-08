@@ -28,7 +28,7 @@
 </p>
 
 ## 🤝 Let's Connect
-📫 [vungocquynhgiang0408@gmail.com](mailto:vungocquynhgiang0408@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vungocquynhgiang0408%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vungocquynhgiang0408@gmail.com)
 
 ---
 
