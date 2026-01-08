@@ -35,12 +35,6 @@
 
 <h3 align="center">📊 My GitHub Statistics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuynYang&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Activity Overview" width="400" />
-  
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuynYang&theme=radical" alt="GitHub Streak" width="400" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=QuynYang&theme=tokyonight)
 
 
