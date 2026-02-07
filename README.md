@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://github.com/QuynYang/QuynYang/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+---
+
 ## 💻 Infrastructure & Tooling
 
 ### 🌐 Languages
@@ -35,4 +43,3 @@
 
 ### Activity Overview
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuynYang&theme=github-light)
-
