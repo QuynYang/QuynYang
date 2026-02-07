@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/QuynYang/QuynYang/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/QuynYang/QuynYang/main/github-metrics.svg" alt="Metrics" width="85%">
 </div>
 
 ---
