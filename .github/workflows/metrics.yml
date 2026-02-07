@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Token mặc định của GitHub (không cần tạo mới nếu chỉ dùng cho repo public)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Cấu hình người dùng
           user: QuynYang
