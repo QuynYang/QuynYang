@@ -1,0 +1,46 @@
+# .github/workflows/metrics.yml
+name: Metrics
+on:
+  # Chạy tự động vào 00:00 mỗi ngày
+  schedule: [{cron: "0 0 * * *"}]
+  # Cho phép chạy thủ công từ tab Actions
+  workflow_dispatch:
+  # Chạy khi có push vào nhánh master/main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token mặc định của GitHub (không cần tạo mới nếu chỉ dùng cho repo public)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Cấu hình người dùng
+          user: QuynYang
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          
+          # Plugin: Isometric Calendar (Biểu đồ 3D giống ảnh bạn gửi)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Plugin: Ngôn ngữ lập trình
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # Plugin: Chuỗi commit (Streaks)
+          plugin_streaks: yes
+          plugin_streaks_mode: weekly
