@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Game+Developer;Unity+Developer;Gameplay+Programmer;C%23+Enthusiast;Software+engineer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Game+Developer;Unity+Developer;Gameplay+Programmer;Software+engineer" alt="Typing Animation" />
   </a>
 </div>
 
