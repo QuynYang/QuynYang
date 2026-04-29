@@ -1,4 +1,4 @@
-<h2 align="center">✨ Vũ Ngọc Quỳnh Giang is coming!</h2>
+<h2 align="center">✨ Vũ Ngọc Quỳnh Giang is coming~~</h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
