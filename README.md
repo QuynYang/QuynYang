@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/QuynYang/QuynYang/main/header-banner.svg" alt="Header banner" width="100%">
+  <img src="https://raw.githubusercontent.com/QuynYang/QuynYang/main/header-banner_converted.svg" alt="Header banner" width="100%">
 </div>
 
 <div align="center">
