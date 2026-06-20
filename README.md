@@ -59,9 +59,7 @@
 | [aicontent-flow-api](https://github.com/QuynYang/aicontent-flow-api) | API service built with JavaScript | _coming soon_ |
 
 </div>
-<--
 > 💡 Thay `_coming soon_` bằng link demo thật khi bạn có (vd: link Swagger, link app deploy trên Render/Railway/Azure...).
--->
 ---
 
 <h2 align="center">🤝 Connect with me</h2>
