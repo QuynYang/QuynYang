@@ -53,8 +53,6 @@
 - **[e-testhub-project-oracle](https://github.com/QuynYang/e-testhub-project-oracle)** — Migrated a Node.js API from MongoDB to Oracle Database
 - **[aicontent-flow-api](https://github.com/QuynYang/aicontent-flow-api)** — API service built with JavaScript
 
-> 💡 Tip: thêm 1-2 dòng mô tả ngắn (tech stack, vấn đề giải quyết, kết quả) vào phần "About" của từng repo trên để recruiter hiểu nhanh hơn khi click vào.
-
 ---
 
 ## 🤝 Connect with me
@@ -63,11 +61,9 @@
   <a href="mailto:vungocquynhgiang0408@gmail.com">
     <img src="https://img.shields.io/badge/Email-vungocquynhgiang0408%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Thêm link LinkedIn của bạn ở đây, ví dụ:
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/quynyang">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  -->
 </p>
 
 ---
