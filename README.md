@@ -32,7 +32,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,python,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css&theme=light" />
 </p>
 
 <h3 align="center">Backend & Data</h3>
@@ -42,7 +42,7 @@
 
 <h3 align="center">Tools & Workflow</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,androidstudio,vscode,postman,figma&theme=light" />
 </p>
 
 ---
