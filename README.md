@@ -32,7 +32,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,js,java,typescript,html,css&theme=light" />
 </p>
 
 <h3 align="center">Backend & Data</h3>
