@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Backend+Developer;ASP.NET+Core+%7C+C%23;Building+scalable+APIs;Always+learning%2C+always+building" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Backend+Developer;ASP.NET+Core+%7C+C%23;Building+scalable+APIs" alt="Typing Animation" />
   </a>
 </div>
 
